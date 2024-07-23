@@ -1,0 +1,32 @@
+navbar:
+  # 左侧名称显示
+  sitename: Greene The Improver
+  # 右侧站内导航链接
+  menu:
+    - name: Home
+      url: /
+    - name: Categories
+      url: /categories/
+    # - name: Tags
+    #   url: /tags/
+    - name: Archives
+      url: /archives/
+    # - name: Page
+    #   url: /page/
+cover:
+  sitename: Greene The Improver
+
+style:
+  color:
+    main_color: '#376343'
+    main_color_dark: '#203A27'
+    selection_color: '#6cae7d'
+
+  highlight:
+    default: 'atom-one-dark'
+
+search:
+  enable: true
+  field: Post
+
+back_to_top: true
