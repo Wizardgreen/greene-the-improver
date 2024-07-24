@@ -26,7 +26,7 @@ category: 'Interview'
 
 ### 答題
 
-我想這會是一個蠻符合人腦思考順序 容易改動也容易調整的版本。
+我想這會是一個蠻符合人腦思考順序也容易改動的版本。
 
 ```js
   const retry = async (execute, times) => {

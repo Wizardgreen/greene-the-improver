@@ -15,7 +15,7 @@ timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://greenetheimprover.tw
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -59,16 +59,6 @@ prismjs:
   preprocess: true
   line_number: false
   tab_replace: ''
-# highlight:
-#   line_number: true
-#   auto_detect: false
-#   tab_replace: ''
-#   wrap: true
-#   hljs: false
-# prismjs:
-#   preprocess: true
-#   line_number: true
-#   tab_replace: ''
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')

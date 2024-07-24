@@ -39,3 +39,6 @@ comments:
     admin: ['Wizardgreen']
     clientID: Ov23liy7twmLUE2fWNRh
     clientSecret: 9be20dc209c2cd2e172a44c4a4dbf45b0ecbc92a
+
+analytics:
+  gtags_site_id: G-NVLPH6J5WM
