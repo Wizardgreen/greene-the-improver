@@ -4,6 +4,7 @@ date: 2024-07-18 16:04:56
 tags:
   - Algorithm
   - LeetCode
+  - 'LeetCode - Easy'
 category: 'Interview'
 ---
 
