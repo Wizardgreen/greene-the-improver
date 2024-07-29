@@ -15,7 +15,7 @@ navbar:
     #   url: /page/
 cover:
   avatar: /images/Designer-96.jpeg
-  sitename: Greene The Improver
+  description: 開場白…開場白…，座右銘、人生哲理、勵志雞湯，謝謝大家。
 
 style:
   color:
@@ -40,6 +40,7 @@ comments:
     admin: ['Wizardgreen']
     clientID: Ov23liy7twmLUE2fWNRh
     clientSecret: 9be20dc209c2cd2e172a44c4a4dbf45b0ecbc92a
+    id: 'blog comment'
 
 analytics:
   gtags_site_id: G-NVLPH6J5WM
