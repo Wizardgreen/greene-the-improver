@@ -1,8 +1,9 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags: 
+tags:
 category: 'Translate'
+gitalk: {{ title }}
 ---
 
 > **注意：**
