@@ -121,3 +121,11 @@ export default function App() {
 
 兩個都是建議用於開發 lib 的工具，不建議在應用端使用。
 由於我自己也不熟，而且看起來主題偏龐大，我再另外獨立寫兩篇連結過來好了。
+
+2024/8/9 update
+useSyncExternalStore -> {% post_link "React v18 - useSyncExternalStore"  %}
+useInsertionEffect -> 提供給打造 CSS in JS 的開發者去製作工具庫所使用，有點偏離我目前想專注的方向，找時間再來了解。
+
+
+
+

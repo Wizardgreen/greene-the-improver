@@ -1,5 +1,5 @@
 ---
-title: Make a Pipe
+title: Implement a Pipe
 date: 2024-07-19 16:14:35
 tags: 'JavaScript'
 category: 'Interview'

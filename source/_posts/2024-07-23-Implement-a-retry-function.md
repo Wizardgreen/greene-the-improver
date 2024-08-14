@@ -1,5 +1,5 @@
 ---
-title: Make a retry function
+title: Implement a retry function
 date: 2024-07-23 09:45:48
 tags:
 - 'JavaScript'
